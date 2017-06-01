@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
  */
 @Controller
 @RequestMapping("loginController")
-public class loginController {
-    private Logger log = LoggerFactory.getLogger(loginController.class);
+public class LoginController {
+    private Logger log = LoggerFactory.getLogger(LoginController.class);
 
     @RequestMapping(value = "/welcome.do",method = RequestMethod.GET)
     public String doWelcome(){
