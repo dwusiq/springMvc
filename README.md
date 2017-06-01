@@ -1,1 +1,1 @@
-gradle、log4j2、springMvc、javaConfig、RequestMethod.get
+1、gradle；2、javaConfig配置spring；3、log4j2；4、springMvc；5、RequestMethod.get（直接在浏览器输入请求路径）
